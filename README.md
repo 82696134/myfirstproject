@@ -20,7 +20,7 @@ This is a simple TodoList project built using HTML, CSS, and JavaScript. It allo
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone git@github.com:82696134/myfirstproject.git`
+1. Clone the repository: `git clone [git@github.com:82696134/myfirstproject.git](https://github.com/username/repo82696134/myfirstproject.git)`
 2. Navigate to the project directory: `cd todo-list`
 3. Open `index.html` in a web browser.
 
