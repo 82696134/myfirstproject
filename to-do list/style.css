@@ -1,0 +1,40 @@
+body{
+  margin:10px;
+  padding:10px;
+  background-color: rgba(0,128,0,1);
+
+}
+.box{
+  margin:10px;
+  padding:20px;
+  background-color:#FFFFFF;
+  border-radius: 20px;
+}
+#phrase{
+  font-style:italic;
+  color:rgba(128,128,128,1);
+  font-size: 13px;
+}
+#add-Button{
+  background-color: #008ECC;
+  border-radius:20px;
+  width:60px;
+  color:white;
+}
+#two{
+  background-color: #008ECC;
+  border-radius: 10px;
+  color:white;
+}
+#three{
+  background-color:#800000;
+  border-radius: 10px;
+  color:white;
+  width:90px;
+}
+#four{
+  background-color:#32CD32;
+  border-radius: 10px;
+  color:white;
+  width:90px;
+}
